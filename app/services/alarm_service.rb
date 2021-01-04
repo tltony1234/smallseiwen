@@ -2,8 +2,8 @@ require 'line/bot'
 class AlarmService
     def line
         @line ||= Line::Bot::Client.new{|config|
-            config.channel_secret = '1be89a509592f2adc5f6d96ae1a64287'
-            config.channel_token = 'cfrHI20IRYLJsIEbVhL8B24oOuweY79iJoUmx8cXugjNQ2zPo2qDZIXCuwKGN4j7XSDbH+wWB5iNpD5JifDQHFuRm7txt/niI01uWuczRLs2nNsejLTpLFOdA1g7t8/EdCXAlY+SNUqZlPSIy834uAdB04t89/1O/w1cDnyilFU='	
+            config.channel_secret = '*'
+            config.channel_token = '*'
         }
     end
     def week(text)

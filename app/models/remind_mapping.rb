@@ -1,0 +1,2 @@
+class RemindMapping < ApplicationRecord
+end

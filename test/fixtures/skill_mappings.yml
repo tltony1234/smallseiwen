@@ -1,0 +1,17 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  skill_name: MyString
+  job_name: MyString
+  skill_level: MyString
+  skill_segment: MyString
+  skill_mp: MyString
+  skill_atk: MyString
+
+two:
+  skill_name: MyString
+  job_name: MyString
+  skill_level: MyString
+  skill_segment: MyString
+  skill_mp: MyString
+  skill_atk: MyString

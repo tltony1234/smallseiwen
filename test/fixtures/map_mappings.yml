@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  map_name: MyString
+  map_lesslevel: MyString
+  map_highlevel: MyString
+
+two:
+  map_name: MyString
+  map_lesslevel: MyString
+  map_highlevel: MyString

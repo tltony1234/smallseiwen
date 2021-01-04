@@ -1,0 +1,25 @@
+<% content_for :title, "Mcdonaldz公會戰" %>
+<p id="notice"><%= notice %></p>
+
+<p>
+  <strong>Name:</strong>
+  <%= @team.name %>
+</p>
+
+<p>
+  <strong>Job:</strong>
+  <%= @team.job %>
+</p>
+
+<p>
+  <strong>Leader:</strong>
+  <%= @team.leader %>
+</p>
+
+<p>
+  <strong>Team:</strong>
+  <%= @team.team %>
+</p>
+
+<%= link_to 'Edit', edit_team_path(@team) %> |
+<%= link_to 'Back', teams_path %>

@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  ship_name: MyString
+  ship_start: MyString
+  ship_last: MyString
+  ship_const: MyString
+  ship_time: MyString
+
+two:
+  ship_name: MyString
+  ship_start: MyString
+  ship_last: MyString
+  ship_const: MyString
+  ship_time: MyString

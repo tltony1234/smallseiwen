@@ -1,0 +1,165 @@
+// Place all the styles related to the teams controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+
+#li1{
+    border-width: 2px;
+    border-color: #000000;
+    border-style:solid;
+}
+#li2{
+    margin-top:2%;
+    border-width: 2px;
+    border-color: #000000;
+    border-style:solid;
+}
+#li3{
+    margin-top:2%;
+    border-width: 2px;
+    border-color: #000000;
+    border-style:solid;
+}
+#li4{
+    margin-top:2%;
+    border-width: 2px;
+    border-color: #000000;
+    border-style:solid;
+}
+#sitebody{
+	width:70%;
+	margin:0 auto;
+}
+#top{
+	background-color:#C3C3C9;
+    width:100%;
+    
+	margin-top: 5%;
+	
+	text-align:center;
+	font-family:Microsoft JhengHei;
+}
+#topm{
+	background-color:#C3C3C9;
+	width:80%;
+	margin-top:5%;
+	float: left;
+	font-size:55px;
+	text-align:center;
+	font-family:Microsoft JhengHei;
+}
+#topr{
+	background-color:#C3C3C9;
+	width:10%;
+	margin-top:5%;
+	float: left;
+	font-size:55px;
+	text-align:center;
+	font-family:Microsoft JhengHei;
+}
+#topl{
+	background-color:#C3C3C9;
+	width:10%;
+	margin-top:5%;
+	float: left;
+	font-size:55px;
+	text-align:center;
+	font-family:Microsoft JhengHei;
+}
+#li1:hover{          
+	background-color:orange;
+	color:black;
+}
+#li2:hover{
+	background-color:orange;
+	color:black;
+}
+#li3:hover{
+	background-color:orange;
+	color:black;
+}
+#li4:hover{
+	background-color:orange;
+	color:black;
+}
+#topl:hover{
+	background-color:orange;
+	color:black;
+}
+#topr:hover{
+	background-color:orange;
+	color:black;
+}	
+#dow{
+	width:100%;
+	margin-top:5%;
+	font-size:15px;
+	text-align:center;
+	font-family:Microsoft JhengHei;
+}
+#mid{
+    clear: both;
+	background-color:#FFFFFF;
+    width:100%;
+    margin-top:5%;
+    text-align:center;
+    font-size:20px;
+    font-family:Microsoft JhengHei;
+}
+#mid3{
+    background-color:#FFFFFF;
+    width:30%;
+    margin:2% auto;
+    font-size:20px;
+    text-align:center;
+    font-family:Microsoft JhengHei;
+}
+#text1{font-size:40px;}#text2{font-size:40px;}
+#mid2{
+    width:100%;
+    margin:2% auto;
+    font-size:20px;
+    text-align:center;
+    font-family:Microsoft JhengHei;
+}
+#but1{
+    list-style:none;
+    width:60%;
+    text-align:center;
+    padding: 50px 100px;
+    border: 1px solid #C7C7C7;
+    background: -webkit-gradient(linear, left top, left bottom, from(#FFFFFF), to(#263DED));
+    background: -webkit-linear-gradient(top, #FFFFFF, #263DED);
+    background: -moz-linear-gradient(top, #FFFFFF, #263DED);
+    background: -ms-linear-gradient(top, #FFFFFF, #263DED);
+    background: -o-linear-gradient(top, #FFFFFF, #263DED);
+    background-color: #263DED;
+    box-shadow: 0px 7px 2px -5px #1A1A1A, inset 0px 0px 3px #00010A;
+    -webkit-box-shadow: 0px 7px 2px -5px #1A1A1A, inset 0px 0px 3px #00010A;
+    -moz-box-shadow: 0px 7px 2px -5px #1A1A1A, inset 0px 0px 3px #00010A;
+    -webkit-border-radius: 15px;
+    -moz-border-radius: 15px;
+    border-radius: 15px;
+    text-shadow: #FFFFFF 1px 1px 0px;
+    color: #000000;
+    font-size: 70px;
+    font-family: '微軟正黑體';
+    text-decoration: none;
+    font-weight: bold;
+    -webkit-transition: 0.2s;
+    -moz-transition: 0.2s;
+    -o-transition: 0.2s;
+    cursor: pointer;
+}
+#but1:hover {
+    background: none;
+    background-color: #263DED;
+    box-shadow: 0px 0px 5px 0px #AAAAAA;
+    -webkit-box-shadow: 0px 0px 5px 0px #AAAAAA;
+    -moz-box-shadow: 0px 0px 5px 0px #AAAAAA;
+    border: 1px solid #ffffff;
+    color: #050505;
+}
+#but1:active {
+    top: 1px;
+    position: relative;
+}

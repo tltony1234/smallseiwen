@@ -1,0 +1,21 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  master_name: MyString
+  master_level: MyString
+  master_hp: MyString
+  master_exp: MyString
+  master_item: MyString
+  master_droppercent: MyString
+  master_money: MyString
+  master_map: MyString
+
+two:
+  master_name: MyString
+  master_level: MyString
+  master_hp: MyString
+  master_exp: MyString
+  master_item: MyString
+  master_droppercent: MyString
+  master_money: MyString
+  master_map: MyString

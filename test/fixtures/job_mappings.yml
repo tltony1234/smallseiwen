@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  job_name: MyString
+  job_level: MyString
+  job_const: MyString
+  job_cdpercent: MyString
+
+two:
+  job_name: MyString
+  job_level: MyString
+  job_const: MyString
+  job_cdpercent: MyString
